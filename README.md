@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, my name is Bhawnish
 
-<!--
-**mrbhawnish/mrbhawnish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I'm a full stack web developer who is passionate about working cross-functionally and eagerly learning new tactics of approaching problems to develop quality products that aim to enhance user experience.
+* Outside Lambda, I love to play cricket, soccer and chess.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Skills: REDUX.JS / REACT.JS / JS / HTML / CSS / JAVA SPRING / UNIT & INTEGRATION TESTS / PYTHON / DATA MODELING / NODE.JS
+
+
+Find me around the web 👤:
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mrbhawnish)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bhawnishkumar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/https://codesandbox.io/u/mrbhawnish)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/6513620/bhawnish-kumar)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrbhawnish)  
+
+
+
