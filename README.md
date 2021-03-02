@@ -10,9 +10,9 @@ Skills: REDUX.JS / REACT.JS / JS / HTML / CSS / JAVA SPRING / UNIT & INTEGRATION
 
 Find me around the web 👤:
 
- * Learning in public on [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/bhawnishkumar//) 👥 💼  
- * Building and practicing on [Codesandbox](https://codesandbox.io/u/https://codesandbox.io/u/mrbhawnish) 🎓🛠 
- * Discovering new strategies and problem solving on [Stackoverflow](https://stackoverflow.com/users/https://stackoverflow.com/users/6513620/bhawnish-kumar) 🔭🔬 
+ * Learning in public on [LinkedIn](https://www.linkedin.com/in/bhawnishkumar/) 👥 💼  
+ * Building and practicing on [Codesandbox](https://codesandbox.io/u/mrbhawnish) 🎓🛠 
+ * Discovering new strategies and problem solving on [Stackoverflow](https://stackoverflow.com/users/6513620/bhawnish-kumar) 🔭🔬 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrbhawnish)  
 
