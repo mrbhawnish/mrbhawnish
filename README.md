@@ -5,9 +5,6 @@
 
 
 
-Skills: REDUX.JS / REACT.JS / JS / HTML / CSS / JAVA / SPRING / UNIT & INTEGRATION TESTS / PYTHON / DATA MODELING / NODE.JS / SQL
-
-
 Find me around the web 👤:
 
  * Learning in public on [LinkedIn](https://www.linkedin.com/in/bhawnishkumar/) 👥 💼  
@@ -15,6 +12,8 @@ Find me around the web 👤:
  * Discovering new strategies and problem solving on [Stackoverflow](https://stackoverflow.com/users/6513620/bhawnish-kumar) 🔭🔬 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrbhawnish)  
+
+Skills: REDUX.JS / REACT.JS / JS / HTML / CSS / JAVA / SPRING / UNIT & INTEGRATION TESTS / PYTHON / DATA MODELING / NODE.JS / SQL
 
 
 
