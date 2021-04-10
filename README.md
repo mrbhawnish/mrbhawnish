@@ -1,7 +1,7 @@
 ### Hi there 👋,
 
 * I'm a full stack web developer who is passionate about working cross-functionally and consistently learning new tactics of approaching problems to develop quality products that aim to enhance and create an exclusive user experience.
-* Outside Lambda, I love to play cricket, soccer and chess.
+* Outside the tech world, I love to play cricket, soccer and chess.
 
 
 Find me around the web 🔬:
