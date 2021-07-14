@@ -1,6 +1,6 @@
 ### Welcome 👋,
 
-* I'm a full stack web developer who is passionate about **working** cross-functionally and consistently **learning** new ways to approach real-world problems that aim to enhance and create an exclusive user experience.
+* I'm a full stack web developer, passionate about **working** cross-functionally and consistently **learning** new ways to approach real-world problems that aim to enhance and create a unique user experience.
 * Outside the tech world, I love to play cricket, soccer and chess.
 
 
