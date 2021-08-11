@@ -11,11 +11,11 @@ Find me around the web 🔬:
  * Discovering new strategies and problem solving on [Stackoverflow](https://stackoverflow.com/users/6513620/bhawnish-kumar) 🔭🔬 
 
 
-Computer science skills: PYTHON / DATA STRUCTURES / ALGORITHMS / PROBLEM-SOLVING STRATEGIES
+Computer science skills & Tools: OOP / TDD / Python / Algorithms & Data Structures / Problem-solving Strategies / Git
 
-Backend skills:  JAVA / SPRING / UNIT & INTEGRATION TESTS / SPRING SECURITY / AUTHENTICATION (+ OKTA AUTH) / DATA MODELING / NODE.JS / SQL / KNEX / JWT AUTHENTICATION / EXPRESS / HEROKU
+Backend skills:  Java Spring / Unit & Integration Testing / Spring Security / Authentication (Okta Auth) / Data Modeling / Node / Express / SQL / Knex.js / Jwt Authentication/ OAuth2 / Heroku / Jest / JUnit / Mockito
 
-Frontend skills: NETLIFY / VERCEL / REDUX.JS / CONTEXT-API / REACT.JS / REACT-HOOKS / JS / HTML / CSS / Less + Styling third-party libs / AUTHENTICATION
+Frontend skills: Netlify / Vercel / HTML/CSS / React / React-Hooks / Redux / Context-API / Javascript / Less / TailwindCSS / Styled-Components / Material-UI / User Authentication
 
 
 
